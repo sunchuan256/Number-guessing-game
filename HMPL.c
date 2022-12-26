@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <windows.h>
 void Welcome_interface(void);
 int game(void);
 int random_number(void);
